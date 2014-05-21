@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/assets/vertex_color_light.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/assets/vertex_tex_light.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cst/android/CrazyRun/tempBall/Ball.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cst/android/CrazyRun/tempBall/BallForControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cst/android/CrazyRun/tempBall/MyMathUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cst/android/CrazyRun/tempBall/ShaderUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cst/android/CrazyRun/tempBall/VectorUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cst/android/CrazyRun/utils/PicLoadUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+
